@@ -298,7 +298,7 @@ const CONFIG = {
   credits: {
     fadeInSec: 1.5,
     startDelaySec: 1.2, 
-    speedPxPerSec: 100, 
+    speedPxPerSec: 200, 
     pauseOnHover: true,
     columnWidth: "min(46rem, 88vw)",
     edgeFadeVh: 20, 
@@ -323,17 +323,36 @@ const CONFIG = {
           { name: "NASA Voyager Mission", url: "https://science.nasa.gov/mission/voyager/", note: "Mission overview and status" },
           { name: "NASA / JPL Voyager", url: "https://voyager.jpl.nasa.gov/", note: "Spacecraft and mission history" },
           {
-            name: "Voyager 1 reaches one light-day from Earth",
+            name: "Voyager 1",
             url: "https://earthsky.org/space/voyager-1-1-light-day-from-earth-november-17-18-2026/",
             note: "EarthSky",
           },
+          {
+            name: "3D resources",
+            url: "https://science.nasa.gov/3d-resources/",
+            note: "NASA 3D models and textures",
+          },
+          {
+            name: "Spirit traverse map",
+            url: "https://www.jpl.nasa.gov/images/pia13730-spirit-traverse-map-sol-2471/",
+            note: "NASA JPL mission map",
+          },
+          {
+            name: "Apollo 11 Mission data",
+            url: "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1969-059C",
+            note: "Apollo 11",
+          },
+          {
+            name: "Mars Pathfinder Mission data",
+            url: "https://science.nasa.gov/mission/mars-pathfinder/",
+            note: "Mars Pathfinder",
+          },
+          {
+            name: "Spirit & Opportunity Mission data",
+            url: "https://science.nasa.gov/mission/mars-exploration-rovers-spirit-and-opportunity/",
+            note: "Spirit & Opportunity",
+          },
           //TODO
-        ],
-      },
-      {
-        heading: "3D model",
-        items: [
-          { name: "NASA 3D Resources", url: "https://science.nasa.gov/3d-resources/", note: "Replace with the real source of Voyager.glb" },
         ],
       },
       {
