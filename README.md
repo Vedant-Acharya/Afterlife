@@ -10,20 +10,20 @@ This project was built by team Oopy-timism for NASA's 2026 Space Apps Challenge.
 
 Demonstration Video: [Project Afterlife | Team Oopy-timism | T-30 Seconds. NASA Space Apps Challenge 2026](https://youtu.be/C7CwJRrR-cw)
 
-Website URL: 
+Website URL: [Project Afterlife](https://project-afterlife-nine.vercel.app/)
 
 
 # 🧩 Structure of the Story
 
 The project is structured into four distinct worlds:
 
-Chapter I - The Archivist gives a hint, a forewarning.
+**Chapter I -** The Archivist gives a hint, a forewarning.
 
-Chapter II - The Odyssey: Reminisces its life, and shares its journey.
+**Chapter II - The Odyssey:** Reminisces its life, and shares its journey.
 
-Chapter III - The Inevitable(Oppy's Final Days): A high-tension, interactive mini-game. The user desperately fights a Martian dust storm to save the Opportunity rover. The game is intentionally impossible. Facing this inevitable failure teaches a profound lesson on the unforgiving reality of space and the endurance of the human spirit.
+**Chapter III - The Inevitable(Oppy's Final Days):** A high-tension, interactive mini-game. The user desperately fights a Martian dust storm to save the Opportunity rover. The game is intentionally impossible. Facing this inevitable failure teaches a profound lesson on the unforgiving reality of space and the endurance of the human spirit.
 
-Chapter IV - The Cliffhanger: The story transitions to the Voyager mission, ending with the haunting question: "OR ARE WE?". The Archivist takes a leap into the unknown, passing the baton to the next generation to write the unwritten chapters of our cosmic journey.
+**Chapter IV - The Cliffhanger:** The story transitions to the Voyager mission, ending with the haunting question: "OR ARE WE?". The Archivist takes a leap into the unknown, passing the baton to the next generation to write the unwritten chapters of our cosmic journey.
 
 # 🛰️ Data Sources & Scientific Foundations
 Every emotional beat is anchored in ground-truth reality. We utilized resources and datasets from the following NASA & partner archives:
